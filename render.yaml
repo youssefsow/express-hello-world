@@ -1,0 +1,5 @@
+#render.yml
+services:
+-name:youssefsow: my-app
+buildCommand: npm install
+start comond: npm start
